@@ -1,0 +1,7 @@
+Archivio supplenze:
+
+- Istituto comprensivo (nome della scuola)
+- da data
+- a data
+- classe di concorso (infanzia, primaria, secondaria primo grado, secondaria secondo grado)
+- Tipologia di impiego (Docente comune, docente di sostegno, educatore, ATA)
